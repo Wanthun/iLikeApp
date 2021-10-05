@@ -29,7 +29,7 @@ return (
             }
 
             // You can return any component that you like here!
-            return <Ionicons name={iconName} size={size} color={"green"} />;
+            return <Ionicons name={iconName} size={size} color={"red"} />;
           },
           //tabBarActiveTintColor: 'tomato',
           tabBarInactiveTintColor: 'gray',
